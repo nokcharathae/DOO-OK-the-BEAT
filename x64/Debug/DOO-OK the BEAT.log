@@ -1,0 +1,16 @@
+﻿  게임실행소스(easy).c
+E:\대학\DOO-OK the BEAT\source\게임실행소스(easy).c(337,3): warning C4013: 'wow'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+E:\대학\DOO-OK the BEAT\source\게임실행소스(easy).c(393,6): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  게임실행소스(hard).c
+E:\대학\DOO-OK the BEAT\source\게임실행소스(hard).c(338,3): warning C4013: 'wow'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  게임오버.c
+E:\대학\DOO-OK the BEAT\source\게임오버.c(21,4): warning C4013: 'start'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+E:\대학\DOO-OK the BEAT\source\게임오버.c(88,10): warning C4098: 'gameover_print': 'void' 함수에서 값을 반환하고 있습니다.
+E:\대학\DOO-OK the BEAT\source\게임오버.c(104,7): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+  수빈와우.c
+  은영노래난이도.c
+E:\대학\DOO-OK the BEAT\source\은영노래난이도.c(43,5): warning C4013: 'easy_game'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+E:\대학\DOO-OK the BEAT\source\은영노래난이도.c(45,5): warning C4013: 'hard_game'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  LINK : E:\대학\DOO-OK the BEAT\x64\Debug\DOO-OK the BEAT.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  DOO-OK the BEAT.vcxproj -> E:\대학\DOO-OK the BEAT\x64\Debug\DOO-OK the BEAT.exe
